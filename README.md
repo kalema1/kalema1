@@ -1,5 +1,5 @@
 <img src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" alt="profile" width="900" height="450" />
-<h1 align="center">Hi 👋, I'm kalema Ronald</h1>
+<h1 align="center">Hi 👋I'm kalema Ronald</h1>
 <h3 align="center">A passionate frontend developer from Uganda with a flair for crafting visually stunning and highly functional web experiences. I specialize in turning design concepts into responsive, pixel-perfect websites using cutting-edge technologies such as HTML5, CSS3, and JavaScript frameworks like React.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalema1&label=Profile%20views&color=0e75b6&style=flat" alt="kalema1" /> </p>
