@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalema1" alt="kalema1" /></a> </p>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **react, css, html, javascript**
+- 💬 Ask me about **react, css, html, javascript, TypeScript**
 
 - 📫 How to reach me **kalemar8@gmail.com**
 
