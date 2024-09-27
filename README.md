@@ -1,6 +1,6 @@
 <img src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" alt="profile" width="900" height="450" />
 <h1 align="center">Hi 👋I'm kalema Ronald</h1>
-<h3 align="center">I have been passionate about web development since creating my first JavaScript project, the "Travel List App." I am now seeking opportunities in Frontend web development, particularly at a startup with a close-knit team where I can quickly make an impact. If you are hiring, let's connect!</h3>
+<h3 align="center">I have been passionate about web development since creating my first JavaScript project, the "Travel App." I am now seeking opportunities in Frontend web development, particularly at a startup with a close-knit team where I can quickly make an impact. If you are hiring, let's connect!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalema1&label=Profile%20views&color=0e75b6&style=flat" alt="kalema1" /> </p>
 
